@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=CSS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=CSS&logoColor=white"/>&nbsp;
+<!--<img src="linux_penguin.png" width=65px alt=on>-->
 <!--
 **ziwon-hwang/ziwon-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
