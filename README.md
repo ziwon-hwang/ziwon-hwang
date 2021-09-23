@@ -1,22 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiwonHwang&fontSize=70&animation=twinkling)
 ### Hi there 👋
-
+### 🌱 I’m currently learning data_analytics
 <!--
 **ziwon-hwang/ziwon-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-<p>🌱 I’m currently learning data_analytics</p>
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-<p>📫 How to reach me: </p><p><a href="ghkdwldnjs112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a></p>
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -  🧸 Me 🧸
 -->
+<p>📫 How to reach me: </p><p><a href="ghkdwldnjs112@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a></p>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
