@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JiwonHwang&fontSize=70&animation=twinkling)
 ### Hi there 👋
-### 🌱 I’m currently learning <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a> &nbsp
+### 🌱 I’m currently learning <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
 data_analytics
 <!--
 **ziwon-hwang/ziwon-hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
