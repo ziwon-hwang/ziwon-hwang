@@ -29,5 +29,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 
-
-<br><div align=center>![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziwon-hwang&show_icons=true&theme=radical)
